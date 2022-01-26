@@ -1,0 +1,16 @@
+{
+  "name": "com.codehuan",
+  "version": "1.0.0",
+  "description": "测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "Code Huan",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
